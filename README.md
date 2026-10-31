@@ -44,4 +44,5 @@ This project is intended for educational and authorized testing purposes. It sim
 - Add a serial interface for reviewing recorded events.
 
 ## Author
-Cybersecurity Student. jana
+j.alfouzan
+Cybersecurity Student.
