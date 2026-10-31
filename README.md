@@ -31,14 +31,13 @@ This project is an Arduino-based physical honeypot prototype designed to simulat
 - Physical security awareness
 
 ## Project Status
-Prototype / In Development.
-
+Prototype
 The current design and code demonstrate the initial concept. Hardware integration, testing, and validation are required before the system can be considered fully functional.
 
 ## Ethical Considerations
 This project is intended for educational and authorized testing purposes. It simulates physical access attempts and does not target real systems or collect actual sensitive information.
 
-## Future Improvements
+## Future Improvements (working on it)
 - Add RFID-based interaction.
 - Include timestamps using a Real-Time Clock (RTC) module.
 - Improve event logging and reporting.
